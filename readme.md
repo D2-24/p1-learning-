@@ -1,4 +1,4 @@
-- Use of backticks
+# Use of backticks
 
 Error =>
 
@@ -40,3 +40,4 @@ input html tag while using FormData().
 1. You click **Add Data**.
 2. Browser sends the form (to the empty action="" in your HTML).
 3. Page reloads → your JavaScript’s added row disappears.
+
