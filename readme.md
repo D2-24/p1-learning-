@@ -1,4 +1,4 @@
-# leanings
+# learnings
 1. In this project i have learned to take data from html form to js file using FormData().
 2. use of backticks
 3. event.preventDefault()
