@@ -1,3 +1,4 @@
+//use of FormData()
 const s = document.querySelector(".summit");
 s.addEventListener("click",function(event)
 {
