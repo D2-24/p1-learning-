@@ -1,3 +1,8 @@
+# leanings
+1. In this project i have learned to take data from html form to js file using FormData().
+2. use of backticks
+3. event.preventDefault()
+
 # Use of backticks
 
 Error => JavaScript doesn’t allow multiline strings in double quotes (") or single quotes (') — the line breaks break the syntax.
@@ -40,5 +45,6 @@ input html tag while using FormData().
 1. You click **Add Data**.
 2. Browser sends the form (to the empty action="" in your HTML).
 3. Page reloads → your JavaScript’s added row disappears.
+
 
 
